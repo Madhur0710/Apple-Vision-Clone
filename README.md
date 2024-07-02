@@ -1,1 +1,1 @@
-Apple Vision Clone using HTML, CSS and JavaScript and GSAP
+Apple Vision Clone using HTML, CSS, JavaScript and GSAP
